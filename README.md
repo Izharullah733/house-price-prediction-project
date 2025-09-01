@@ -26,7 +26,7 @@ To run this project, you need the following:
 
 Python: Version 3.11.9 (developed using VS Code)
 
-Libraries:
+**Libraries:**
 
 
 pandas
@@ -49,7 +49,7 @@ You can install the required libraries using pip:
 
 pip install pandas numpy seaborn matplotlib scikit-learn scipy
 
-Project Structure
+**Project Structure**
 
 
 
