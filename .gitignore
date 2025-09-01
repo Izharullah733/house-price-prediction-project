@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+
+# Data (if you don't want to upload large files)
+data/*.csv  # Uncomment this if housing.csv is too big
+
+# Misc
+.DS_Store
+Thumbs.db
